@@ -24,22 +24,12 @@ const rajesh = {
     certifications: ["Coding Ninjas React", "JavaScript", "HTML", "CSS"]
   },
   challenge: "Building the Saktrix UI Library and enhancing React performance through reusable components",
-  Fun fact: *" ⚡ Sometimes I debug my code… only to realize the bug was me ☕😅"*
+  Fun fact: " ⚡ Sometimes I debug my code… only to realize the bug was me ☕😅"
 }
 
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
-- 🔭 Currently crafting **modern React projects** (Real-time Chat App, Dashboard, Quiz App, etc.)
-- 🌱 Exploring **AI + Frontend integration** for smarter apps
-- 🎯 Goal: Build projects that blend **design + intelligence + performance**
-- 💬 Ask me about **React, TypeScript, APIs, and UI Animations**
-- 
-
----
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/code-rajesh/)
